@@ -76,7 +76,7 @@ files.download("cleaned_sales.csv")
 | Text Formatting | Inconsistent (e.g., `Premium ` vs `premium`) | Standardized (all lowercase, trimmed spaces) |
 | Column Names    | Mixed case, spaces                           | Snake\_case (clean & uniform)                |
 | Data Types      | Inconsistent (object for numbers)            | Corrected (float/int/categorical)            |
-| File            | `sales_with_nans.csv` (raw)                  | `cleaned_sales.csv` (ready for analysis)     |
+| File            | `sales_with_nans.csv` (raw)                 | `cleaned_sales.csv` (ready for analysis)     |
 
 Output
 
