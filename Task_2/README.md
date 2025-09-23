@@ -11,15 +11,15 @@ Contents
 3. Region-wise Sales & Profit – Performance comparison across regions.
 4. Top 5 States by Profit– States generating the highest profit.
 5. Top 5 Customers in Each Region– Key customers driving revenue.
-6. Sales & Profit Over Time** – Trend analysis to observe growth and seasonal patterns.
-* **Comprehensive Dashboard** – Combined view of all insights for decision-making.
+6. Sales & Profit Over Time – Trend analysis to observe growth and seasonal patterns.
+7. Comprehensive Dashboard – Combined view of all insights for decision-making.
 
 Key Insights
 
-* Identifies top-performing categories and subcategories.
-* Reveals regional and state-level profit distribution.
-* Highlights top customers by region.
-* Displays time-based trends for better forecasting.
+1.Identifies top-performing categories and subcategories.
+2. Reveals regional and state-level profit distribution.
+3. Highlights top customers by region.
+4. Displays time-based trends for better forecasting.
 
 Conclusion
 
