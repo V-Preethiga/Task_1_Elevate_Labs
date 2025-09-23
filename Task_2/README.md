@@ -17,9 +17,12 @@ Contents
 Key Insights
 
 1.Identifies top-performing categories and subcategories.
+
 2. Reveals regional and state-level profit distribution.
+   
 3. Highlights top customers by region.
-4. Displays time-based trends for better forecasting.
+   
+5. Displays time-based trends for better forecasting.
 
 Conclusion
 
